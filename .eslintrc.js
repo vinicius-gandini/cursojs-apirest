@@ -15,5 +15,6 @@ module.exports = {
     "import/first": "off",
     "implicit-arrow-linebreak": "off",
     "no-param-reassign": "off",
+    camelcase: "off",
   },
 };
